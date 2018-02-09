@@ -1,6 +1,7 @@
 ## Linear Algebra Examples
 
-Linear System Example: One,No,Many Solutions
+#Linear System Example: One,No,Many Solutions
+
 ```markdown
 clear 
 close all
